@@ -1,0 +1,1 @@
+declore module "*.png"
